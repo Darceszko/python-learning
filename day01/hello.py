@@ -1,2 +1,3 @@
+name = input("Mi a neved?")
 
-print("Hello, World!")
+print (f"Szia, {name}! Orulok hogy megismerhetlek")
