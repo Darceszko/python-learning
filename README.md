@@ -12,7 +12,7 @@ This repository contains my Python exercises and projects as I learn programming
 ## Progress
 
 - [x] Variables
-- [ ] If statements
+- [x] If statements
 - [ ] Loops
 - [ ] Functions
 - [ ] Lists
