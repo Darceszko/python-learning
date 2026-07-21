@@ -5,7 +5,7 @@ This folder contains my coursework, exercises, and notes from **CS50's Introduct
 ## Course Progress
 
 - [x] Week 0 – Functions, Variables
-- [ ] Week 1 – Conditionals
+- [x] Week 1 – Conditionals
 - [ ] Week 2 – Loops
 - [ ] Week 3 – Exceptions
 - [ ] Week 4 – Libraries
