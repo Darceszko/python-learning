@@ -1,8 +1,8 @@
-user_name = input("Felhasznalnev: ")
+user_name = input("Felhasznalnev: ").lower().replace(" ", "")
 
 password = input("Jelszo: ")
 
-if user_name.lower() == "david": 
+if user_name == "david": 
     if password == "python123":
         print("Sikeres bejelentkezes! ")
     else:
