@@ -22,10 +22,10 @@ Larger, standalone projects are published in their own repositories.
 
 - [x] Variables
 - [x] If statements
-- [ ] Loops
-- [ ] Functions
-- [ ] Lists
-- [ ] Dictionaries
+- [x] Loops
+- [x] Functions
+- [x] Lists
+- [x] Dictionaries
 - [ ] Files
 - [ ] Object-Oriented Programming
 
